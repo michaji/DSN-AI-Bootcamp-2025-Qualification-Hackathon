@@ -1,0 +1,1 @@
+# DSN-AI-Bootcamp-2025-Qualification-Hackathon
