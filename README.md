@@ -1,4 +1,4 @@
-### **Used Car Price Prediction 🚗💨**
+### **DSN-AI-Bootcamp-2025 Qualification  (Used Car Price Prediction 🚗💨)**
 
 ### **Overview**
 
