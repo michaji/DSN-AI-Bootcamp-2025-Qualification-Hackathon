@@ -2,7 +2,7 @@
 
 ### **Overview**
 
-This repository contains code and analysis for predicting used car prices using a comprehensive dataset sourced from cars.com. The dataset includes **4,009 unique vehicle listings**, each with nine distinct features such as brand, model, mileage, fuel type, and more. Whether you're a data scientist, automotive enthusiast, or a potential car buyer, this project provides valuable insights into the factors influencing used car prices.
+This repository contains code and analysis for predicting used car prices using a comprehensive dataset sourced from cars.com. The dataset includes **188533 unique vehicle listings**, each with nine distinct features such as brand, model, mileage, fuel type, and more. Whether you're a data scientist, automotive enthusiast, or a potential car buyer, this project provides valuable insights into the factors influencing used car prices.
 
 -----
 
